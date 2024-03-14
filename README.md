@@ -1,3 +1,6 @@
+# DoNation - Food Donation App
+## Where donors and individuals in need can interact and facilitate donations, can be a noble and impactful endeavor.
+------------------------------------------------------------------------------------------------
 <div align="justify">
 In highly populated countries like India, food wastage is a disturbing issue. The streets, garbage bins and landfills have ample proof to prove it. Marriages, canteens, restaurants, social and family get-togethers and functions expel out so much food. Food wastage is not only an indication of hunger or pollution, but also of many economic problems. The high standard of living has resulted in the wastage of food, clothes, etc. because of quick changes in habits and lifestyle. Instead of wasting these things we can put them in use by donating them to various organizations such as orphanages, old age homes, etc. The product is an internet-based android application that basically aims at charity through donations.
 
@@ -18,16 +21,14 @@ Some screenshots of the Application:
 <p align="center" float="left">
 <table>
   <tr>
-    <td>Splash Screen</td>
     <td>Home Screen</td>
     <td>Register Screen</td>
     <td>Login Screen</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682387-33b613c2-86a7-4622-80a0-0560e4733716.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682390-c4d23438-4e4a-4eff-9471-5f881618c16f.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682402-6a9917ae-0734-4b37-a8ef-bfcc0f49f537.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682393-903ff2a0-2aac-48d4-92a5-0d3e2f403a84.png" width="220"></td>
+    <td><img src="https://github.com/ayushsingh02/DoNation/assets/124250408/00266030-4e9e-4288-b544-a9d361cc4337" width="220"></td>
+    <td><img src="https://github.com/ayushsingh02/DoNation/assets/124250408/b875d6c6-9f04-409d-bf34-7e3222c6ee59" width="220"></td>
+    <td><img src="https://github.com/ayushsingh02/DoNation/assets/124250408/5a2c5b6d-6818-4119-9ad1-a483ffedcc7b" width="220"></td>
   </tr>
  </table>
  <table>
@@ -38,10 +39,10 @@ Some screenshots of the Application:
     <td>Food Map Screen</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682382-a0a2671d-6160-44d5-a4fb-dab764103ca4.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682397-00db142f-8817-47d5-b23d-e67aef63ea02.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682399-7f6ba8ba-0805-4797-9af1-8994707c9adb.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683214-c1795ace-d312-40f2-9b1f-72a855ea27bd.png" width="220"></td>
+    <td><img src="https://github.com/ayushsingh02/DoNation/assets/124250408/87be4a7a-54b1-4ce1-a8b2-9082e8f608c5" width="220"></td>
+    <td><img src="https://github.com/ayushsingh02/DoNation/assets/124250408/de095d0d-bfcd-4d02-818a-2816f0a1e67d" width="220"></td>
+    <td><img src="https://github.com/ayushsingh02/DoNation/assets/124250408/6ab22ea2-425f-4e7f-9d2c-da0a666cd933" width="220"></td>
+    <td><img src="https://github.com/ayushsingh02/DoNation/assets/124250408/6e9bc179-8852-4ca7-8b01-b232698b35e3" width="220"></td>
   </tr>
  </table>
  </table>
@@ -51,8 +52,8 @@ Some screenshots of the Application:
     <td>About Screen</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683209-1f154899-b993-43e2-8536-d8fceb61cbe5.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683224-83af7bc1-f8c6-4b6b-bd26-3ec9b13813a3.png" width="220"></td>
+    <td><img src="https://github.com/ayushsingh02/DoNation/assets/124250408/6d03e313-f509-4cb1-8043-643e6f0db9bb" width="220"></td>
+    <td><img src="https://github.com/ayushsingh02/DoNation/assets/124250408/c5938886-1607-4674-a842-40c6194160ea" width="220"></td>
   </tr>
  </table>
  </p>
