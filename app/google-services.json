@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932055439006",
+    "project_id": "donate-40770",
+    "storage_bucket": "donate-40770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932055439006:android:2b0582173a7480f3ec8d8f",
+        "android_client_info": {
+          "package_name": "com.example.aahaarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932055439006-t5ognt5ug51g1op50bbhm6tieepfdt7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP21i50aG1by54aoFpi7v7PkcaWA4hkos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932055439006-t5ognt5ug51g1op50bbhm6tieepfdt7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
